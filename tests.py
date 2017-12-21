@@ -1,11 +1,5 @@
-naskn
+import numpy as np
+import matplotlib.pyplot as plt
 
-sas
-
-sfdf
-d
-fs
-df
-dsf
-d
-dfdfdfdf
+A = 3**2
+print(A)
